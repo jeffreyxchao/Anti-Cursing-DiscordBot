@@ -10,14 +10,14 @@ Everytime a message is sent in the server (does not matter what channel), the bo
 ## Commands
 **only owner can use commands
 
-**addword**__
+**addword__**
 add a word or phrase to be banned in the server 
 
-**removeword**__
+**removeword__**
 remove a banned word or phrase from the server 
 
-**records**__
+**records__**
 allows owner to see all previous history of the desired user using innapropiate language in he server 
 
-**showbannedwords**__
+**showbannedwords__**
 displays all words "banned" in the server 
