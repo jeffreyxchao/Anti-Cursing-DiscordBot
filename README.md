@@ -11,13 +11,13 @@ Everytime a message is sent in the server (does not matter what channel), the bo
 **only owner can use commands
 
 ### addword
-add a word or phrase to be banned in the server 
+*add a word or phrase to be banned in the server* 
 
 ### removeword
-remove a banned word or phrase from the server 
+*remove a banned word or phrase from the server*
 
 ### records
-allows owner to see all previous history of the desired user using innapropiate language in he server 
+*allows owner to see all previous history of the desired user using innapropiate language in he server*
 
 ### showbannedwords
-displays all words "banned" in the server 
+*displays all words "banned" in the server* 
