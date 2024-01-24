@@ -8,3 +8,5 @@ Everytime a message is sent in the server (does not matter what channel), the bo
 - The bot will then save the sender and message into a separate table as a record that the owner of the server can access.
 
 # Commands
+1. /addword
+2. 
