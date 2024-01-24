@@ -7,7 +7,7 @@ Everytime a message is sent in the server (does not matter what channel), the bo
 - If so, the sender will be timed out for one hour, and the owner of the server will receive a private message from the bot. This message will include the sender and the message itself.
 - The bot will then save the sender and message into a separate table as a record that the owner of the server can access.
 
-# Commands
+## Commands
 **only owner can use commands
 
 ### addword
