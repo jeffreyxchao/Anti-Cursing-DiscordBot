@@ -7,17 +7,17 @@ Everytime a message is sent in the server (does not matter what channel), the bo
 - If so, the sender will be timed out for one hour, and the owner of the server will receive a private message from the bot. This message will include the sender and the message itself.
 - The bot will then save the sender and message into a separate table as a record that the owner of the server can access.
 
-## Commands
+# Commands
 **only owner can use commands
 
-**addword__**
+## addword
 add a word or phrase to be banned in the server 
 
-**removeword__**
+## removeword
 remove a banned word or phrase from the server 
 
-**records__**
+## records
 allows owner to see all previous history of the desired user using innapropiate language in he server 
 
-**showbannedwords__**
+## showbannedwords
 displays all words "banned" in the server 
